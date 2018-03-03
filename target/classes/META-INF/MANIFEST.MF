@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Mariam
+Build-Jdk: 9.0.4
+Implementation-Title: hotell
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: sw2.hotell
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Hotell
+Created-By: Maven Integration for Eclipse
+
